@@ -1,0 +1,160 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-clr{
+    background-color: #ff4c68;
+}
+
+#title{
+    background-color: #ff4c68;
+}
+
+/* #features{
+    background-color: rgb(185, 173, 173);
+} */
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.h{
+    color: white;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.download-btn{
+    margin: 5% 3% 5% 0;
+}
+
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+    /* animation: dog 5s ease infinite; */
+}
+
+/* @keyframes dog {
+  
+        0%{
+            transform: rotate(25deg);
+            transform: translateX(100px);
+            opacity: 0;
+        }
+        100%{
+            transform: rotate(25deg);
+            transform: translateY(50px);
+            opacity: 0.50;
+        }
+    
+} */
+
+#features{
+    padding: 7% 15%;
+}
+
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 2rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+
+#testimonials{
+    padding: 7% 15%;
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonials-image{
+    width: 10%;
+    margin: 20px;
+    border-radius: 100%;
+}
+
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-img{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+
+.bttn{
+    width: 250px;
+}
+
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 3% 15%;
+    text-align: center;
+}
+
+#footer{
+    background-color: black;
+    color: #fff;
+    padding: 1% 5%;
+    text-align: center;
+}
+
+/* html{
+    scroll-behavior: smooth;
+} */
+
+#ch{
+    background-color: #ff4c68;
+}
+#cb{
+    background-color: #16E9C5;
+}
